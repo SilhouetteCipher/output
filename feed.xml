@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Abstractia</title>
-    <link href="http://silhouettecipher.github.io/dsgn/feed.xml" rel="self" />
-    <link href="http://silhouettecipher.github.io/dsgn" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <link href="https://silhouettecipher.github.io/dsgn/feed.xml" rel="self" />
+    <link href="https://silhouettecipher.github.io/dsgn" />
+    <updated>2024-08-04T20:04:03+01:00</updated>
     <author>
         <name>D</name>
     </author>
-    <id>http://silhouettecipher.github.io/dsgn</id>
+    <id>https://silhouettecipher.github.io/dsgn</id>
 
+    <entry>
+        <title>A Post</title>
+        <author>
+            <name>D</name>
+        </author>
+        <link href="https://silhouettecipher.github.io/dsgn/a-post.html"/>
+        <id>https://silhouettecipher.github.io/dsgn/a-post.html</id>
+
+        <updated>2024-08-04T20:04:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    With the most
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    With the most
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://silhouettecipher.github.io/dsgn/media/posts/1/71J4EkuE4L._AC_SL1200_.jpg" height="1200" width="1200" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-xs.jpg 300w ,https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-sm.jpg 480w ,https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-md.jpg 768w ,https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-lg.jpg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
 </feed>

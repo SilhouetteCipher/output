@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://silhouettecipher.github.io/dsgn/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://silhouettecipher.github.io/dsgn/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://silhouettecipher.github.io/dsgn/</loc>
+<loc>https://silhouettecipher.github.io/dsgn/</loc>
+</url>
+<url>
+<loc>https://silhouettecipher.github.io/dsgn/a-post.html</loc>
+<lastmod>2024-08-04T20:04:03+01:00</lastmod>
+<image:image>
+<image:loc>https://silhouettecipher.github.io/dsgn/media/posts/1/71J4EkuE4L._AC_SL1200_.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>

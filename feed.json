@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Abstractia",
     "description": "",
-    "home_page_url": "http://silhouettecipher.github.io/dsgn",
-    "feed_url": "http://silhouettecipher.github.io/dsgn/feed.json",
+    "home_page_url": "https://silhouettecipher.github.io/dsgn",
+    "feed_url": "https://silhouettecipher.github.io/dsgn/feed.json",
     "user_comment": "",
     "author": {
         "name": "D"
     },
     "items": [
+        {
+            "id": "https://silhouettecipher.github.io/dsgn/a-post.html",
+            "url": "https://silhouettecipher.github.io/dsgn/a-post.html",
+            "title": "A Post",
+            "summary": "With the most",
+            "content_html": "\n  <p>\n    With the most\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://silhouettecipher.github.io/dsgn/media/posts/1/71J4EkuE4L._AC_SL1200_.jpg\" height=\"1200\" width=\"1200\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-xs.jpg 300w ,https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-sm.jpg 480w ,https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-md.jpg 768w ,https://silhouettecipher.github.io/dsgn/media/posts/1/responsive/71J4EkuE4L._AC_SL1200_-lg.jpg 1024w\">\n      \n    </figure>",
+            "author": {
+                "name": "D"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-04T20:04:03+01:00",
+            "date_modified": "2024-08-04T20:04:03+01:00"
+        }
     ]
 }
