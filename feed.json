@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Abstractia",
+    "description": "",
+    "home_page_url": "http://silhouettecipher.github.io/dsgn",
+    "feed_url": "http://silhouettecipher.github.io/dsgn/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "D"
+    },
+    "items": [
+    ]
+}

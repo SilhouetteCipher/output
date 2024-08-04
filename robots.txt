@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://silhouettecipher.github.io/dsgn/sitemap.xml
